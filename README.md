@@ -18,9 +18,6 @@ Página de Login: Página inicial simples com um botão de login que redireciona
 Tela de Login: Formulário para login com autenticação por email/senha ou via Google/LinkedIn.
 CRM de Originação de Deals (em construção): Após o login, o usuário será redirecionado para uma página que informa que o CRM está em construção, enquanto o sistema continua sendo desenvolvido.
 
-Visão do Funil de Oportunidades: Sistema de categorização das oportunidades de aquisição com status como "Leads", "Em Progresso", "Aguardando Resposta" e "Fechado".
-Integração de Login Social: Suporte para login através de Google e LinkedIn para facilitar o acesso.
-
 ## Tecnologias Utilizadas
 
 V0: Framework para criação rápida de interfaces front-end.
