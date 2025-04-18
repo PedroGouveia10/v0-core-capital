@@ -21,6 +21,7 @@ CRM de Originação de Deals (em construção): Após o login, o usuário será 
 ## Tecnologias Utilizadas
 
 V0: Framework para criação rápida de interfaces front-end.
+
 Supabase: Plataforma para backend que fornece autenticação e banco de dados em tempo real.
 
 ## Desenvolvimento
