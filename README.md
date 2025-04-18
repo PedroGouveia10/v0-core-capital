@@ -5,13 +5,28 @@
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/pedrossgov-gmailcoms-projects/v0-simple-home-page-design)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/llOM5cA5E1Z)
 
-## Overview
+## Visão geral
 
-Core Capital é uma plataforma focada em ajudar investidores de search funds a gerenciar e otimizar o processo de originação de oportunidades de aquisição de empresas SaaS. O aplicativo organiza, prioriza e automatiza o funil de oportunidades, centralizando leads, acompanhando interações com fundadores e analisando dados financeiros básicos, com o objetivo de facilitar a análise e tomada de decisão estratégica para aquisições.
+Core Capital é uma plataforma voltada para investidores de search funds, ajudando na originação de oportunidades de aquisição de empresas SaaS. O aplicativo organiza, prioriza e automatiza o processo de acompanhamento de leads, centralizando informações importantes, como dados financeiros e status de comunicação com fundadores. O objetivo é fornecer uma maneira eficiente e estratégica de gerenciar o funil de aquisições.
 
-Este repositório contém o código para a interface front-end da plataforma, com uma página de login simples e uma estrutura de CRM em construção para o acompanhamento de oportunidades de aquisição.
+Este repositório contém o código para a interface front-end do sistema, utilizando V0 para construção da interface e Supabase para a autenticação e gerenciamento de dados.
 
-## Deployment
+
+## Funcionalidades
+
+Página de Login: Página inicial simples com um botão de login que redireciona o usuário para a tela de login do CRM.
+Tela de Login: Formulário para login com autenticação por email/senha ou via Google/LinkedIn.
+CRM de Originação de Deals (em construção): Após o login, o usuário será redirecionado para uma página que informa que o CRM está em construção, enquanto o sistema continua sendo desenvolvido.
+
+Visão do Funil de Oportunidades: Sistema de categorização das oportunidades de aquisição com status como "Leads", "Em Progresso", "Aguardando Resposta" e "Fechado".
+Integração de Login Social: Suporte para login através de Google e LinkedIn para facilitar o acesso.
+
+## Tecnologias Utilizadas
+
+V0: Framework para criação rápida de interfaces front-end.
+Supabase: Plataforma para backend que fornece autenticação e banco de dados em tempo real.
+
+## Desenvolvimento
 
 Nosso projeto pode ser econtrado em:
 
